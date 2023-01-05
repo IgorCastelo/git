@@ -1,1 +1,2 @@
 Entendendo os Grafo de commit
+Está linha foi modificada no ramo master
